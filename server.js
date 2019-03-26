@@ -3,7 +3,7 @@
 
 var bodyParser = require("body-parser");
 var mongoose = require("mongoose");
-var logger = require("morgan");
+// var logger = require("morgan");
 
 
 //This code initializes the express app
